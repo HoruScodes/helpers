@@ -1,0 +1,24 @@
+{
+  "name": "Rishabh Patel",
+  "bio": "Web Developer",
+  "avatar": "https://avatars.githubusercontent.com/u/83689669?s=400&u=e474f2a5eddc2df7877163dc5fdaef5a4b920edb&v=4",
+  "links": [
+    {
+      "name": "Follow me on Youtube",
+      "url": "https://github.com/rishabhpatel99",
+      "icon": "youtube"
+    },
+
+    {
+      "name": "Follow me on Github",
+      "url": "https://github.com/rishabhpatel99",
+      "icon": "github"
+    },
+
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://github.com/rishabhpatel99",
+      "icon": "twitter"
+    }
+  ]
+}

@@ -28,8 +28,3 @@ function Socials({ links }) {
 }
 
 export default Socials;
-// className={
-//     link.icon === "twitter"
-//       ? "pi pi-twitter p-px-2"
-//       : "pi pi-youtube p-px-2"
-//   }

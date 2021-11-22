@@ -1,0 +1,24 @@
+{
+  "name": "Ravi Patel",
+  "bio": "Web Developer",
+  "avatar": "https://avatars.githubusercontent.com/u/34295856?v=4",
+  "links": [
+    {
+      "name": "Follow me on Youtube",
+      "url": "https://github.com/ravipatel98",
+      "icon": "youtube"
+    },
+
+    {
+      "name": "Follow me on Github",
+      "url": "https://github.com/ravipatel98",
+      "icon": "github"
+    },
+
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://github.com/ravipatel98",
+      "icon": "twitter"
+    }
+  ]
+}

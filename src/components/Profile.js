@@ -13,7 +13,7 @@ import { Avatar } from "primereact/avatar";
 //   }
 // }
 
-function Profile({ data: { avatar, name, bio, total } }) {
+function Profile({ data: { avatar, name, bio, total, links } }) {
   // const { avatar, name, bio } = data;
   return (
     <div>
@@ -24,8 +24,8 @@ function Profile({ data: { avatar, name, bio, total } }) {
           shape="circle"
           className="p-overlay-badge"
         >
-          <Badge value={total} severity="info" />
-          {console.log(name)}
+          <Badge value={links.length} severity="info" />
+          {console.log(avatar, name, bio, total)}
         </Avatar>
         <h1 className="p-m-2">{name} </h1>
       </div>

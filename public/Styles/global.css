@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+
+@layer base {
+  @font-face {
+    font-family: "Plus Jakarta Display";
+    font-weight: 400;
+    src: url("/fonts/webfonts/PlusJakartaSans-Regular.woff2") format("woff2"),
+      url("/fonts/webfonts/PlusJakartaSans-Regular.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Plus Jakarta Display";
+    font-weight: 200;
+    src: url("/fonts/webfonts/PlusJakartaSans-Light.woff2") format("woff2"),
+      url("/fonts/webfonts/PlusJakartaSans-Light.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Plus Jakarta Display";
+    font-weight: 700;
+    src: url("/fonts/webfonts/PlusJakartaSans-Bold.woff2") format("woff2"),
+      url("/fonts/webfonts/PlusJakartaSans-Bold.woff") format("woff");
+  }
+
+  @font-face {
+    font-family: "Plus Jakarta Display";
+    font-weight: 500;
+    src: url("/fonts/webfonts/PlusJakartaSans-SemiBold.woff2") format("woff2"),
+      url("/fonts/webfonts/PlusJakartaSans-SemiBold.woff") format("woff");
+  }
+}
+
+@tailwind utilities;
+
+/* * {
+  font-family: "Plus Jakarta Display", sans-serif;
+} */
